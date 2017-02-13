@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_animations"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Animations" />
+        <item
+            android:id="@+id/nav_buttons"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Buttons" />
+        <item
+            android:id="@+id/nav_gestures"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Gestures" />
+        <item
+            android:id="@+id/nav_interface"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Interface" />
+        <item
+            android:id="@+id/nav_lockscreen"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="LockScreen" />
+        <item
+            android:id="@+id/nav_panel"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Panels" />
+        <item
+            android:id="@+id/nav_quick_settings"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Quick Settings" />
+        <item
+            android:id="@+id/nav_recents"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Recents" />
+        <item
+            android:id="@+id/nav_misc"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Misc." />
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="About" />
+    </group>
+</menu>
